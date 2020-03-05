@@ -27,7 +27,7 @@ module.exports = () => ({
     {
       "id": "august-first",
       "name": "August First",
-      "address": "149 So. Champlain St. Burlington, VT 05401",
+      "address": "149 S Champlain St. Burlington, VT 05401",
       "phone": "540-0060",
       "website": "http://augustfirstvt.com/",
       "notes": [
