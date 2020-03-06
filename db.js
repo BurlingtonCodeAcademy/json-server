@@ -1,97 +1,97 @@
 module.exports = () => ({
   address: [
     {
-      "id": "163-main",
+      "id": "163-main-st",
       "lat": "44.4762975",
       "lon": "-73.2135472"
 
     },
     {
-      "id": "115%20St%20Paul%20St%20Burlington,%20VT%2005401",
+      "id": "115-st-paul-st",
       "lat": "44.47655925",
       "lon": "-73.21435285244789"
 
     },
     {
-      "id": "149%20S%20Champlain%20St.%20Burlington,%20VT%2005401",
+      "id": "149-s-champlain-st",
       "lat": "44.47555355",
       "lon": "-73.21729793418368"
 
     },
     {
-      "id": "82%20S%20Winooski%20Ave.%20Burlington,%20VT%2005401",
+      "id": "82-s-winooski-ave",
       "lat": "44.47803611764706",
       "lon": "-73.21097505882354"
 
     },
     {
-      "id": "189%20Bank%20St.%20Burlington,%20VT%2005401",
+      "id": "189-bank-st",
       "lat": "44.4780302",
       "lon": "-73.21200445"
 
     },
     {
-      "id": "160%20Bank%20St.%20Burlington,%20VT%2005401",
+      "id": "160-bank-st",
       "lat": "44.4784159",
       "lon": "-73.21330286185886"
 
     },
     {
-      "id": "144%20Church%20Street,%20Burlington%20Vermont%2005401",
+      "id": "144-church-st",
       "lat": "44.476398875736336",
       "lon": "-73.21240806736434"
 
     },
     {
-      "id": "55%20Cherry%20St%20Burlington,%20VT%2005401",
+      "id": "55-cherry-st",
       "lat": "44.479114494479774",
       "lon": "-73.21614463847374"
 
     },
     {
-      "id": "155%20Bank%20Street,%20Burlington%20Vermont%2005401",
+      "id": "155-bank-st",
       "lat": "44.47809657873547",
       "lon": "-73.21348650653393"
 
     },
     {
-      "id": "156%20Church%20Street,%20Burlington%20Vermont%2005401",
+      "id": "156-church-st",
       "lat": "44.476130696533765",
       "lon": "-73.21238743819491"
 
     },
     {
-      "id": "155%20Main%20St.%20Burlington,%20VT%2005401",
+      "id": "155-main-st",
       "lat": "44.475847826086955",
       "lon": "-73.21306069565217"
 
     },
     {
-      "id": "115%20Church%20Street,%20Burlington%20Vermont%2005401",
+      "id": "115-church-st",
       "lat": "44.475506925547116",
       "lon": "-73.21257891013627"
 
     },
     {
-      "id": "206%20Main%20St.%20Burlington,%20VT%2005401",
+      "id": "206-main-st",
       "lat": "44.476072187499994",
       "lon": "-73.211245625"
 
     },
     {
-      "id": "83%20Church%20St.%20Burlington,%20VT%2005401",
+      "id": "83-church-st",
       "lat": "44.4780447",
       "lon": "-73.2129484"
 
     },
     {
-      "id": "112%20Lake%20Street,%20Burlington%20Vermont%2005401",
+      "id": "112-lake-st",
       "lat": "44.4793121",
       "lon": "-73.2200287"
 
     },
     {
-      "id": "161%20Church%20Street,%20Burlington%20Vermont%2005401",
+      "id": "161-church-st",
       "lat": "44.47518312089307",
       "lon": "-73.21255782228427"
 
@@ -112,7 +112,7 @@ module.exports = () => ({
     {
       "id": "american-flatbread",
       "name": "American Flatbread",
-      "address": "115 St Paul St Burlington, VT 05401",
+      "address": "115 St Paul St. Burlington, VT 05401",
       "phone": "861-2999",
       "website": "http://americanflatbread.com/restaurants/burlington-vt/",
       "hours": "Monday - Friday: 11:30 a.m. - 3:00 p.m. & 5:00 p.m. - 11:30 p.m. Saturday - Sunday: 11:30 a.m. - 11:30 p.m.",
@@ -170,7 +170,7 @@ module.exports = () => ({
     {
       "id": "gaku-ramen",
       "name": "Gaku Ramen",
-      "address": "144 Church Street, Burlington Vermont 05401",
+      "address": "144 Church St. Burlington Vermont 05401",
       "phone": "497-3050",
       "website": "http://gakuramen.com/",
       "hours": "Sunday – Thursday: 11a.m. – 10p.m.",
@@ -179,7 +179,7 @@ module.exports = () => ({
     {
       "id": "hen-of-the-wood",
       "name": "Hen of The Wood",
-      "address": "55 Cherry St Burlington, VT 05401",
+      "address": "55 Cherry St. Burlington, VT 05401",
       "phone": "802-540-0534",
       "website": "http://www.henofthewood.com",
       "hours": "Sunday - Saturday: 4:00p.m. - 11:00p.m.",
@@ -194,7 +194,7 @@ module.exports = () => ({
     {
       "id": "henrys-diner",
       "name": "Henry's Diner",
-      "address": "155 Bank Street, Burlington Vermont 05401",
+      "address": "155 Bank St. Burlington Vermont 05401",
       "phone": "862-9010",
       "website": "http://www.henofthewood.com",
       "hours": "Sunday - Saturday: 6a.m. - 4p.m.",
@@ -203,7 +203,7 @@ module.exports = () => ({
     {
       "id": "honey-road",
       "name": "Honey Road",
-      "address": "156 Church Street, Burlington Vermont 05401",
+      "address": "156 Church St. Burlington Vermont 05401",
       "phone": "802-497-2145",
       "hours": "Sunday - Saturday: 4:00pm - 10:00pm",
       "notes": [
@@ -227,7 +227,7 @@ module.exports = () => ({
     {
       "id": "leunigs-bistro",
       "name": "Leunig's Bistro",
-      "address": "115 Church Street, Burlington Vermont 05401",
+      "address": "115 Church St. Burlington Vermont 05401",
       "phone": "863-3759",
       "website": "https://www.leunigsbistro.com/",
       "hours": "Mon-Thurs 8a.m. - 6p.m., Fri and Sat 8a.m. - 10p.m.,  Sunday 8p.m. - 6p.m.",
@@ -258,7 +258,7 @@ module.exports = () => ({
     {
       "id": "single-pebble",
       "name": "A Single Pebble",
-      "address": "112 Lake Street, Burlington Vermont 05401",
+      "address": "112 Lake St. Burlington Vermont 05401",
       "phone": "865-5200",
       "website": "https://asinglepebble.com/",
       "hours": "Sunday - Saturday: 5p.m. - close",
@@ -267,7 +267,7 @@ module.exports = () => ({
     {
       "id": "thai-dishes",
       "name": "Thai Dishes",
-      "address": "161 Church Street, Burlington Vermont 05401",
+      "address": "161 Church St. Burlington Vermont 05401",
       "phone": "448-3215",
       "website": "http://thaidishesvt.com/",
       "hours": "Wednesday - Friday: 11:30a.m. - 2p.m., 5:00p.m. - 9:00p.m., Saturday - Sunday 12:00 - 3:00, 4:00 - 8:30",
