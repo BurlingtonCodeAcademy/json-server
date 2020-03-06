@@ -1,7 +1,7 @@
 module.exports = () => ({
   address: [
     {
-      "id": "163%20Main%20St.%20Burlington,%20VT%2005401",
+      "id": "163-main",
       "lat": "44.4762975",
       "lon": "-73.2135472"
 
